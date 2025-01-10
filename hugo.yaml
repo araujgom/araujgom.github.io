@@ -43,6 +43,9 @@ params:
   showtoc: false
   tocopen: false
 
+  customCSS:
+    - css/extended/custom.css
+
   # home-info mode
   homeInfoParams:
     Title: "Aoba! 🖖"
