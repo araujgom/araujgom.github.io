@@ -45,10 +45,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Olá, mundo 🖖"
+    Title: "Aoba! 🖖"
     Content: |
-      Falando sobre Tecnologia, Dados e Software de um modo descomplicado e útil 😄.
-      Não precisa bater a porta, basta entrar! 🚪
+      Hey, não se acanhe e chega mais! Vamos falar um pouco sobre Tecnologia, Dados e outros assuntos. Fique à vontade para explorar o conteúdo e, se gostar, compartilhe com os(as) amigos(as) 🚀
 
   socialIcons:
     - name: github
