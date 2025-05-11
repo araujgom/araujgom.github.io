@@ -1,10 +1,10 @@
 ---
-title: "My First Post"
-date: 2024-01-09
+title: "Computação do R$0: Um Guia Prático"
+date: 2025-05-11
 draft: false
-tags: ["teste"]
+tags: ["tech", "guia", "engenharia-software", "guide", "software-engineering"]
 ---
 
-# Welcome to my blog
+# Computação do R$0: Um Guia Prático
 
 This is my first post using the PaperMod theme.

@@ -1,5 +1,5 @@
 baseURL: "https://araujgom.github.io/"
-title: Fernando Araujo
+title: "Fernando Araujo"
 pagination:
   pagerSize: 10
 theme: PaperMod
@@ -18,8 +18,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Fernando Araujo
-  description: "Engenharia de Software e Dev Lifestyle"
-  keywords: [Software Engineering, Data Engineering, Dev Lifestyle]
+  description: "A safe space to share knowledge and experiences about Software Engineering and Nerd Stuff."
+  keywords: [software-engineering, data-engineering, back-end, data-analytics, artificial-intelligence]
   author: Fernando Araujo
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -50,7 +50,7 @@ params:
   homeInfoParams:
     Title: "Aoba! 🖖"
     Content: |
-      Hey, não se acanhe e chegue mais! Vamos falar um pouco sobre Tecnologia, Dados e outros assuntos. Fique à vontade para explorar o conteúdo e, se gostar, compartilhe com os(as) amigos(as) 🚀
+      Hey, don't be shy! Please grab a cup of coffee ☕ and enjoy the content! Here's a safe space where I share knowledge and experiences accumulated over the years about Software Engineering and Nerd Stuff 🤓. I hope you find it useful and inspiring!
 
   socialIcons:
     - name: github
@@ -85,7 +85,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Categorias
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
