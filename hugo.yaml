@@ -19,7 +19,14 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Fernando Araujo
   description: "A safe space to share knowledge and experiences about Software Engineering and Nerd Stuff."
-  keywords: [software-engineering, data-engineering, back-end, data-analytics, artificial-intelligence]
+  keywords:
+    [
+      software-engineering,
+      data-engineering,
+      back-end,
+      data-analytics,
+      artificial-intelligence,
+    ]
   author: Fernando Araujo
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -50,7 +57,7 @@ params:
   homeInfoParams:
     Title: "Aoba! 🖖"
     Content: |
-      Hey, don't be shy! Please grab a cup of coffee ☕ and enjoy the content! Here's a safe space where I share knowledge and experiences accumulated over the years about Software Engineering and Nerd Stuff 🤓. I hope you find it useful and inspiring!
+      Programador, carioca, 33 anos 🤓. Originalmente um blog técnico. Hoje, para qualquer assunto que renda uma boa conversa.
 
   socialIcons:
     - name: github
